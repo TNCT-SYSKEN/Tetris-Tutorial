@@ -5,7 +5,7 @@
 
 # 環境
 - [IDE] VisualStudio2017 Community
-- [わーくふれーむ] Siv3D
+- [わーくふれーむ] OpenSiv3D ver0.3.0
 - [しようげんご] C++
 - [そのた] Github , 実装力
 

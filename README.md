@@ -4,8 +4,8 @@
 # 環境構築からゲーム完成までのチュートリアルです。
 
 # 環境
-[IDE] VisualStudio2017 Community
-[わーくふれーむ] Siv3D
-[しようげんご] C++
-[そのた] Github , 実装力
+- [IDE] VisualStudio2017 Community
+- [わーくふれーむ] Siv3D
+- [しようげんご] C++
+- [そのた] Github , 実装力
 

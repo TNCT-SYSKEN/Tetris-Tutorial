@@ -7,6 +7,14 @@
 *.userosscache
 *.sln.docstates
 
+#not need
+nlp/
+engine/
+eample/
+AS_DEBUG/
+*.rc
+*.html
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 

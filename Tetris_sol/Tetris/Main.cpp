@@ -18,7 +18,7 @@ void drawBackGround();
 void Main()
 {
 	Graphics::SetBackground(ColorF(0.8, 0.9, 1.0));
-
+	Window::Resize(400 , 600);
 	while (System::Update())
 	{
 		gameManager();

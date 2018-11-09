@@ -47,6 +47,8 @@ void Main()
 		{9,9,9,9,9,9,9,9,9,9,9,9},
 	};
 
+	Graphics::SetBackground(ColorF(0.8, 0.9, 1.0));
+	Window::Resize(400 , 800);
 	while (System::Update())
 	{
 		gameManager();
